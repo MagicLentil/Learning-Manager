@@ -1,0 +1,6 @@
+module Pods_LearningManager {
+  umbrella header "Pods-LearningManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
