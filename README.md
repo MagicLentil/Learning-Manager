@@ -1,3 +1,13 @@
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/1ce1e819-cf5c-4b38-ae24-59d9077382e5?raw=true&s=200" width="250" alt="Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 23 25 41"></td>
+      <td><img src="https://github.com/user-attachments/assets/4b859b6a-57b7-4467-9160-30ddb34e5704" width="250" alt="Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 23 25 45"></td>
+      <td><img src="https://github.com/user-attachments/assets/50cfcf71-200b-40a4-a403-361c03c5a99f" width="250" alt="Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 23 25 49"></td>
+    </tr>
+  </table>
+</div>
+
 # 1. 产品概述
 Learning Manager 是一款专为学生设计的iOS应用，旨在帮助用户有效管理学习任务、追踪学习时间，并提高学习效率。
 # 2. 目标用户
@@ -34,6 +44,3 @@ Learning Manager 是一款专为学生设计的iOS应用，旨在帮助用户有
 * 所有数据本地存储，确保用户隐私
 * 明确的隐私政策，说明数据使用和保护措施
 
-![Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 23 25 49](https://github.com/user-attachments/assets/50cfcf71-200b-40a4-a403-361c03c5a99f) 
-![Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 23 25 45](https://github.com/user-attachments/assets/4b859b6a-57b7-4467-9160-30ddb34e5704)
-![Simulator Screenshot - iPhone 16 Pro - 2024-09-22 at 23 25 41](https://github.com/user-attachments/assets/1ce1e819-cf5c-4b38-ae24-59d9077382e5)
